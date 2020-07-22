@@ -2,5 +2,6 @@
 Interaction between IoT &amp; AWS Device
 
 ![](IoTPubSub1.PNG)
-![](IoTPubSub2.png)
-![](IoTPubSub3.png)
+![](IoTPubSub2.PNG)
+![](IoTPubSub3.PNG)
+![](IoTPubSub4.PNG)
