@@ -10,13 +10,8 @@ Interaction between IoT &amp; AWS Device
 ![](IoTPubSub3.PNG)
 ![](IoTPubSub4.PNG)
 
-This is my new line
+
 
 `npm install`
 
 `ng serve`
-
-# Run above steps to deploy the services
-
-#
-
