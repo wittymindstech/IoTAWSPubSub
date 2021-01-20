@@ -1,3 +1,7 @@
+
+
+....
+
 # IoTAWSPubSub
 Interaction between IoT &amp; AWS Device
 
@@ -6,7 +10,7 @@ Interaction between IoT &amp; AWS Device
 ![](IoTPubSub3.PNG)
 ![](IoTPubSub4.PNG)
 
-# Add steps to run the project
+
 
 `npm install`
 
