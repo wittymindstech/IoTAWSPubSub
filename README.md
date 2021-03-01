@@ -2,6 +2,11 @@
 
 ....
 
+
+# Description:
+
+IoT device will send the data to AWS Cloud 
+Web dashboard will fetch the data from AWS Cloud
 # IoTAWSPubSub
 Interaction between IoT &amp; AWS Device
 
@@ -9,6 +14,7 @@ Interaction between IoT &amp; AWS Device
 ![](IoTPubSub2.PNG)
 ![](IoTPubSub3.PNG)
 ![](IoTPubSub4.PNG)
+![](flow.jpg)
 
 
 
